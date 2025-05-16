@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2022.1 2022.01, Jan 29 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/CS701/simulation/modelsim
+valtera_up_avalon_reset_from_locked_signal
+!s110 1746753928
+!i10b 1
+!s100 M=9_04l@6_AZV7M5XIfUS3
+I]T^>I_T071?n@WL6gm`Zj2
+R0
+Z1 w1746744476
+8H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v
+FH:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v
+!i122 71
+L0 28 65
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2022.1;75
+r1
+!s85 0
+31
+Z4 !s108 1746753928.000000
+!s107 H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ip|+incdir+H:/CS701/ip/AudioClock_1/submodules|H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v|
+!i113 0
+Z5 o-vlog01compat -work ip -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 !s92 -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+Eaudioclock
+R1
+Z8 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
+Z9 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z10 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 73
+R0
+Z11 8H:/CS701/ip/AudioClock_1/AudioClock.vhd
+Z12 FH:/CS701/ip/AudioClock_1/AudioClock.vhd
+l0
+L9 1
+V3J>z@7BcBE`cdi:nofk`>2
+!s100 TV@F?<GPX;QXZ<m;44Sjm3
+Z13 OL;C;2022.1;75
+31
+Z14 !s110 1746753929
+!i10b 1
+Z15 !s108 1746753929.000000
+Z16 !s90 -reportprogress|300|-93|-work|ip|H:/CS701/ip/AudioClock_1/AudioClock.vhd|
+Z17 !s107 H:/CS701/ip/AudioClock_1/AudioClock.vhd|
+!i113 0
+Z18 o-93 -work ip
+Z19 tExplicit 1 CvgOpt 0
+Artl
+R8
+R9
+R10
+DEx4 work 10 audioclock 0 22 3J>z@7BcBE`cdi:nofk`>2
+!i122 73
+l28
+L18 21
+V4GJNl_[C3fER<^:z696951
+!s100 P3:61NnSWk8NDFeHd?YUc0
+R13
+31
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+vAudioClock_audio_pll_0
+!s110 1746753927
+!i10b 1
+!s100 9ER;PgmH>0^mVe3S8Z3en0
+I?YNkhWj3f9JIz:L7Y`gj50
+R0
+R1
+8H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v
+FH:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v
+!i122 70
+L0 9 22
+R2
+R3
+r1
+!s85 0
+31
+!s108 1746753927.000000
+!s107 H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ip|+incdir+H:/CS701/ip/AudioClock_1/submodules|H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v|
+!i113 0
+R5
+R6
+R7
+n@audio@clock_audio_pll_0
+vAudioClock_audio_pll_0_audio_pll
+R14
+!i10b 1
+!s100 gdGZnQ?VKBjz^CLJD6SUm3
+I[El0C6nQ]^R?7ReMZBDoP0
+R0
+R1
+8H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v
+FH:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v
+!i122 72
+L0 2 85
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ip|+incdir+H:/CS701/ip/AudioClock_1/submodules|H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v|
+!i113 0
+R5
+R6
+R7
+n@audio@clock_audio_pll_0_audio_pll
+Eaudiofifo
+R1
+R9
+R10
+!i122 74
+R0
+Z20 8H:/CS701/ip/AudioFifo/AudioFifo.vhd
+Z21 FH:/CS701/ip/AudioFifo/AudioFifo.vhd
+l0
+Z22 L43 1
+V[@Alfl[TNXIbMOgj8z:h22
+!s100 3BP;Z;RCI9HWmShL_G^4d3
+R13
+31
+Z23 !s110 1746753930
+!i10b 1
+Z24 !s108 1746753930.000000
+Z25 !s90 -reportprogress|300|-93|-work|ip|H:/CS701/ip/AudioFifo/AudioFifo.vhd|
+Z26 !s107 H:/CS701/ip/AudioFifo/AudioFifo.vhd|
+!i113 0
+R18
+R19
+Asyn
+R9
+R10
+DEx4 work 9 audiofifo 0 22 [@Alfl[TNXIbMOgj8z:h22
+!i122 74
+l92
+L58 67
+V@8^D0:jzm>?<F^6jUX5OY0
+!s100 XM4U33_OZYVeBd;QGVP?G3
+R13
+31
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 0
+R18
+R19
+Eaudiorom
+R1
+Z27 DPx9 altera_mf 20 altera_mf_components 0 22 8llVN^EYS=O_D8P]LkzWF0
+R9
+R10
+!i122 75
+R0
+Z28 8H:/CS701/ip/AudioRom/AudioRom.vhd
+Z29 FH:/CS701/ip/AudioRom/AudioRom.vhd
+l0
+R22
+VIg292SfAQHjdL2B`m39WY1
+!s100 G_aGK2Adfb2k8<6?k]OY_1
+R13
+31
+Z30 !s110 1746753931
+!i10b 1
+Z31 !s108 1746753931.000000
+Z32 !s90 -reportprogress|300|-93|-work|ip|H:/CS701/ip/AudioRom/AudioRom.vhd|
+Z33 !s107 H:/CS701/ip/AudioRom/AudioRom.vhd|
+!i113 0
+R18
+R19
+Asyn
+R27
+R9
+R10
+DEx4 work 8 audiorom 0 22 Ig292SfAQHjdL2B`m39WY1
+!i122 75
+l57
+L53 33
+VVM@66`2YIQfFIFQJ=i^oB2
+!s100 Bc@`IoNlnTK7:fXN=O^?62
+R13
+31
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 0
+R18
+R19
+Etdmaminfifo
+R1
+R9
+R10
+!i122 76
+R0
+Z34 8H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd
+Z35 FH:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd
+l0
+R22
+Vc<QJiXck2Em_A9;WcJmU<1
+!s100 e^gjc9aTlQ]YIoG32lHNS0
+R13
+31
+Z36 !s110 1746753932
+!i10b 1
+Z37 !s108 1746753932.000000
+Z38 !s90 -reportprogress|300|-93|-work|ip|H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd|
+Z39 !s107 H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd|
+!i113 0
+R18
+R19
+Asyn
+R9
+R10
+Z40 DEx4 work 11 tdmaminfifo 0 22 c<QJiXck2Em_A9;WcJmU<1
+!i122 76
+l89
+Z41 L57 63
+Z42 V[9ei;U8M2IeTeXIU]jU@H1
+Z43 !s100 N1^KGPG_4bPEaW`OmJKo?3
+R13
+31
+R36
+!i10b 1
+R37
+R38
+R39
+!i113 0
+R18
+R19

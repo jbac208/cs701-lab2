@@ -1,0 +1,56 @@
+library ieee;
+use ieee.numeric_std.all;
+use ieee.std_logic_1164.all;
+
+library work;
+use work.TdmaMinTypes.all;
+
+entity AspDp is
+  port (
+    clock : in  std_logic;
+    recv  : in  tdma_min_port;  -- Input from NoC
+    send  : out tdma_min_port   -- Output to NoC (addr=1)
+  );
+end entity;
+
+architecture rtl of AspDp is
+  signal sample_buffer : signed(15 downto 0) array (0 to 3) := (others => (others => '0'));
+  signal buffer_index  : integer range 0 to 3 := 0;
+begin
+
+  process(clock)
+    variable avg      : signed(15 downto 0);
+    variable doubled  : signed(15 downto 0);
+    variable clipped  : signed(15 downto 0);
+  begin
+    if rising_edge(clock) then
+      -- Check for valid audio packet (bits 31-28 = "1000")
+      if recv.data(31 downto 28) = "1000" then
+        -- Store sample in buffer
+        sample_buffer(buffer_index) <= signed(recv.data(15 downto 0));
+        buffer_index <= (buffer_index + 1) mod 4;
+
+        -- Calculate moving average (4 samples)
+        avg := (sample_buffer(0) + sample_buffer(1) + sample_buffer(2) + sample_buffer(3)) / 4;
+
+        -- Double and clip to ±4096
+        doubled := avg * 2;
+        if doubled > 4096 then
+          clipped := to_signed(4096, 16);
+        elsif doubled < -4096 then
+          clipped := to_signed(-4096, 16);
+        else
+          clipped := doubled;
+        end if;
+
+        -- Forward to DAC-ASP (addr=1)
+        send.addr <= x"01";  -- DAC-ASP address
+        send.data <= "1000" & "0000000000000" & recv.data(16) & std_logic_vector(clipped);
+      else
+        send.addr <= (others => '0');
+        send.data <= (others => '0');
+      end if;
+    end if;
+  end process;
+
+end architecture;
