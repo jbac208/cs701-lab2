@@ -1,5 +1,5 @@
 Fitter report for DE1-SoC
-Fri May 16 12:45:44 2025
+Sun May 25 23:14:14 2025
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
 
 
@@ -66,7 +66,7 @@ refer to the applicable agreement for further details.
 +-----------------------------------------------------------------------------------+
 ; Fitter Summary                                                                    ;
 +---------------------------------+-------------------------------------------------+
-; Fitter Status                   ; Successful - Fri May 16 12:45:44 2025           ;
+; Fitter Status                   ; Successful - Sun May 25 23:14:14 2025           ;
 ; Quartus Prime Version           ; 18.1.0 Build 625 09/12/2018 SJ Standard Edition ;
 ; Revision Name                   ; DE1-SoC                                         ;
 ; Top-level Entity Name           ; TopLevel                                        ;
@@ -164,7 +164,7 @@ refer to the applicable agreement for further details.
 ;     Processor 2            ;   0.7%      ;
 ;     Processor 3            ;   0.6%      ;
 ;     Processor 4            ;   0.6%      ;
-;     Processor 5            ;   0.6%      ;
+;     Processor 5            ;   0.5%      ;
 ;     Processor 6            ;   0.5%      ;
 ;     Processor 7            ;   0.5%      ;
 ;     Processor 8            ;   0.5%      ;
@@ -270,7 +270,7 @@ refer to the applicable agreement for further details.
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in C:/Users/jbac208/Downloads/CS701-2/CS701-2/output_files/DE1-SoC.pin.
+The pin-out file can be found in H:/cs701-lab2/CS701-lab/output_files/DE1-SoC.pin.
 
 
 +------------------------------------------------------------------------------------------+
@@ -2384,9 +2384,9 @@ Info (332104): Reading SDC File: 'DE1-SoC.sdc'
 Warning (332043): Overwriting existing clock: CLOCK_50
 Warning (332043): Overwriting existing clock: CLOCK2_50
 Warning (332043): Overwriting existing clock: CLOCK3_50
-Warning (332174): Ignored filter at DE1-SoC.sdc(4): CLOCK4_50 could not be matched with a port File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/DE1-SoC.sdc Line: 4
-Warning (332049): Ignored create_clock at DE1-SoC.sdc(4): Argument <targets> is an empty collection File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/DE1-SoC.sdc Line: 4
-    Info (332050): create_clock -period 20.000ns [get_ports CLOCK4_50] File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/DE1-SoC.sdc Line: 4
+Warning (332174): Ignored filter at DE1-SoC.sdc(4): CLOCK4_50 could not be matched with a port File: H:/cs701-lab2/CS701-lab/DE1-SoC.sdc Line: 4
+Warning (332049): Ignored create_clock at DE1-SoC.sdc(4): Argument <targets> is an empty collection File: H:/cs701-lab2/CS701-lab/DE1-SoC.sdc Line: 4
+    Info (332050): create_clock -period 20.000ns [get_ports CLOCK4_50] File: H:/cs701-lab2/CS701-lab/DE1-SoC.sdc Line: 4
 Warning (332043): Overwriting existing clock: clk_audbck
 Warning (332043): Overwriting existing clock: clk_audxck
 Info (332151): Clock uncertainty is not calculated until you update the timing netlist.
@@ -2415,10 +2415,10 @@ Info (176235): Finished register packing
     Extra Info (176219): No registers were packed into other blocks
 Warning (15705): Ignored locations or region assignments to the following nodes
     Warning (15706): Node "CLOCK4_50" is assigned to location or region, but does not exist in design
-Info (11798): Fitter preparation operations ending: elapsed time is 00:00:07
+Info (11798): Fitter preparation operations ending: elapsed time is 00:00:08
 Info (170189): Fitter placement preparation operations beginning
 Info (14951): The Fitter is using Advanced Physical Optimization.
-Info (170190): Fitter placement preparation operations ending: elapsed time is 00:00:16
+Info (170190): Fitter placement preparation operations ending: elapsed time is 00:00:18
 Info (170191): Fitter placement operations beginning
 Info (170137): Fitter placement was successful
 Info (170192): Fitter placement operations ending: elapsed time is 00:00:01
@@ -2429,7 +2429,7 @@ Info (170199): The Fitter performed an Auto Fit compilation.  Optimizations were
     Info (170201): Optimizations that may affect the design's routability were skipped
     Info (170200): Optimizations that may affect the design's timing were skipped
 Info (170194): Fitter routing operations ending: elapsed time is 00:00:01
-Info (11888): Total time spent on timing analysis during the Fitter is 1.26 seconds.
+Info (11888): Total time spent on timing analysis during the Fitter is 1.50 seconds.
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
@@ -2437,20 +2437,20 @@ Info (334004): Delay annotation completed successfully
 Info (11801): Fitter post-fit operations ending: elapsed time is 00:00:03
 Warning (171167): Found invalid Fitter assignments. See the Ignored Assignments panel in the Fitter Compilation Report for more information.
 Warning (169064): Following 3 pins have no output enable or a GND or VCC output enable - later changes to this connectivity may change fitting results
-    Info (169065): Pin AUD_ADCLRCK has a permanently disabled output enable File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/src/TopLevel.vhd Line: 20
-    Info (169065): Pin AUD_BCLK has a permanently disabled output enable File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/src/TopLevel.vhd Line: 21
-    Info (169065): Pin AUD_DACLRCK has a permanently disabled output enable File: C:/Users/jbac208/Downloads/CS701-2/CS701-2/src/TopLevel.vhd Line: 23
-Info (144001): Generated suppressed messages file C:/Users/jbac208/Downloads/CS701-2/CS701-2/output_files/DE1-SoC.fit.smsg
-Info: Quartus Prime Fitter was successful. 0 errors, 20 warnings
-    Info: Peak virtual memory: 8099 megabytes
-    Info: Processing ended: Fri May 16 12:45:44 2025
-    Info: Elapsed time: 00:00:58
-    Info: Total CPU time (on all processors): 00:07:05
+    Info (169065): Pin AUD_ADCLRCK has a permanently disabled output enable File: H:/cs701-lab2/CS701-lab/src/TopLevel.vhd Line: 20
+    Info (169065): Pin AUD_BCLK has a permanently disabled output enable File: H:/cs701-lab2/CS701-lab/src/TopLevel.vhd Line: 21
+    Info (169065): Pin AUD_DACLRCK has a permanently disabled output enable File: H:/cs701-lab2/CS701-lab/src/TopLevel.vhd Line: 23
+Info (144001): Generated suppressed messages file H:/cs701-lab2/CS701-lab/output_files/DE1-SoC.fit.smsg
+Info: Quartus Prime Fitter was successful. 0 errors, 21 warnings
+    Info: Peak virtual memory: 8077 megabytes
+    Info: Processing ended: Sun May 25 23:14:22 2025
+    Info: Elapsed time: 00:01:15
+    Info: Total CPU time (on all processors): 00:06:30
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in C:/Users/jbac208/Downloads/CS701-2/CS701-2/output_files/DE1-SoC.fit.smsg.
+The suppressed messages can be found in H:/cs701-lab2/CS701-lab/output_files/DE1-SoC.fit.smsg.
 
 

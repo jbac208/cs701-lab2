@@ -28,25 +28,25 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_syn_attributes.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:02 on May 09,2025
+# Start time: 23:23:25 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/altera_syn_attributes.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_syn_attributes
-# End time: 13:25:03 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:27 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_standard_functions.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:03 on May 09,2025
+# Start time: 23:23:27 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/altera_standard_functions.vhd 
 # -- Loading package STANDARD
 # -- Compiling package altera_standard_functions
 # -- Compiling package body altera_standard_functions
 # -- Loading package altera_standard_functions
-# End time: 13:25:04 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:27 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/alt_dspbuilder_package.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:04 on May 09,2025
+# Start time: 23:23:27 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/alt_dspbuilder_package.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -55,11 +55,11 @@
 # -- Compiling package alt_dspbuilder_package
 # -- Compiling package body alt_dspbuilder_package
 # -- Loading package alt_dspbuilder_package
-# End time: 13:25:05 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:28 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_europa_support_lib.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:05 on May 09,2025
+# Start time: 23:23:28 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/altera_europa_support_lib.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -70,11 +70,11 @@
 # -- Compiling package altera_europa_support_lib
 # -- Compiling package body altera_europa_support_lib
 # -- Loading package altera_europa_support_lib
-# End time: 13:25:05 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:23:29 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:05 on May 09,2025
+# Start time: 23:23:29 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/altera_primitives_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -84,11 +84,11 @@
 # -- Compiling package dffeas_pack
 # -- Loading package dffeas_pack
 # -- Compiling package altera_primitives_components
-# End time: 13:25:06 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:31 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_primitives.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:06 on May 09,2025
+# Start time: 23:23:31 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera c:/intelfpga/18.1/quartus/eda/sim_lib/altera_primitives.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -176,7 +176,7 @@
 # -- Compiling architecture BEHAVIOR of alt_bidir_diff
 # -- Compiling entity alt_bidir_buf
 # -- Compiling architecture BEHAVIOR of alt_bidir_buf
-# End time: 13:25:07 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:32 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/lpm
@@ -188,17 +188,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work lpm {c:/intelfpga/18.1/quartus/eda/sim_lib/220pack.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:08 on May 09,2025
+# Start time: 23:23:33 on May 25,2025
 # vcom -reportprogress 300 -93 -work lpm c:/intelfpga/18.1/quartus/eda/sim_lib/220pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package LPM_COMPONENTS
-# End time: 13:25:09 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:35 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work lpm {c:/intelfpga/18.1/quartus/eda/sim_lib/220model.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:09 on May 09,2025
+# Start time: 23:23:35 on May 25,2025
 # vcom -reportprogress 300 -93 -work lpm c:/intelfpga/18.1/quartus/eda/sim_lib/220model.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -294,7 +294,7 @@
 # -- Compiling architecture LPM_SYN of LPM_OUTpad
 # -- Compiling entity LPM_BIpad
 # -- Compiling architecture LPM_SYN of LPM_BIpad
-# End time: 13:25:10 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:36 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/sgate
@@ -306,7 +306,7 @@
 # Modifying modelsim.ini
 # vcom -93 -work sgate {c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:10 on May 09,2025
+# Start time: 23:23:36 on May 25,2025
 # vcom -reportprogress 300 -93 -work sgate c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -314,11 +314,11 @@
 # -- Compiling package sgate_pack
 # -- Compiling package body sgate_pack
 # -- Loading package sgate_pack
-# End time: 13:25:11 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:38 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work sgate {c:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:11 on May 09,2025
+# Start time: 23:23:38 on May 25,2025
 # vcom -reportprogress 300 -93 -work sgate c:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -368,7 +368,7 @@
 # -- Compiling architecture sim_arch of oper_bus_mux
 # -- Compiling entity oper_latch
 # -- Compiling architecture sim_arch of oper_latch
-# End time: 13:25:12 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:39 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_mf
@@ -380,17 +380,17 @@
 # Modifying modelsim.ini
 # vcom -93 -work altera_mf {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_mf_components.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:12 on May 09,2025
+# Start time: 23:23:39 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera_mf c:/intelfpga/18.1/quartus/eda/sim_lib/altera_mf_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_mf_components
-# End time: 13:25:14 on May 09,2025, Elapsed time: 0:00:02
+# End time: 23:23:41 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_mf {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_mf.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:14 on May 09,2025
+# Start time: 23:23:41 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera_mf c:/intelfpga/18.1/quartus/eda/sim_lib/altera_mf.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -629,7 +629,7 @@
 # -- Compiling architecture sim_sld_virtual_jtag_basic of sld_virtual_jtag_basic
 # -- Compiling entity altsource_probe
 # -- Compiling architecture sim_altsource_probe of altsource_probe
-# End time: 13:25:15 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:43 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/altera_lnsim
@@ -641,21 +641,21 @@
 # Modifying modelsim.ini
 # vlog -sv -work altera_lnsim {c:/intelfpga/18.1/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv}
 # QuestaSim-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:16 on May 09,2025
+# Start time: 23:23:44 on May 25,2025
 # vlog -reportprogress 300 -sv -work altera_lnsim c:/intelfpga/18.1/quartus/eda/sim_lib/mentor/altera_lnsim_for_vhdl.sv 
 # 
 # Top level modules:
-# End time: 13:25:17 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:45 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vcom -93 -work altera_lnsim {c:/intelfpga/18.1/quartus/eda/sim_lib/altera_lnsim_components.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:17 on May 09,2025
+# Start time: 23:23:45 on May 25,2025
 # vcom -reportprogress 300 -93 -work altera_lnsim c:/intelfpga/18.1/quartus/eda/sim_lib/altera_lnsim_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling package altera_lnsim_components
-# End time: 13:25:18 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:47 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # 
 # vlib vhdl_libs/cyclonev
@@ -667,15 +667,15 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev {c:/intelfpga/18.1/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v}
 # QuestaSim-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:19 on May 09,2025
+# Start time: 23:23:47 on May 25,2025
 # vlog -reportprogress 300 -vlog01compat -work cyclonev c:/intelfpga/18.1/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 13:25:21 on May 09,2025, Elapsed time: 0:00:02
+# End time: 23:23:49 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 # vcom -93 -work cyclonev {c:/intelfpga/18.1/quartus/eda/sim_lib/cyclonev_atoms.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:21 on May 09,2025
+# Start time: 23:23:49 on May 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev c:/intelfpga/18.1/quartus/eda/sim_lib/cyclonev_atoms.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -815,11 +815,11 @@
 # -- Compiling architecture behavior of cyclonev_ir_fifo_userdes
 # -- Compiling entity cyclonev_oscillator
 # -- Compiling architecture behavior of cyclonev_oscillator
-# End time: 13:25:23 on May 09,2025, Elapsed time: 0:00:02
+# End time: 23:23:52 on May 25,2025, Elapsed time: 0:00:03
 # Errors: 0, Warnings: 1
 # vcom -93 -work cyclonev {c:/intelfpga/18.1/quartus/eda/sim_lib/cyclonev_components.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:23 on May 09,2025
+# Start time: 23:23:52 on May 25,2025
 # vcom -reportprogress 300 -93 -work cyclonev c:/intelfpga/18.1/quartus/eda/sim_lib/cyclonev_components.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
@@ -828,7 +828,7 @@
 # -- Loading package VITAL_Primitives
 # -- Loading package cyclonev_atom_pack
 # -- Compiling package cyclonev_components
-# End time: 13:25:25 on May 09,2025, Elapsed time: 0:00:02
+# End time: 23:23:53 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # if {[file exists rtl_work]} {
@@ -847,122 +847,122 @@
 # QuestaSim-64 vmap 2022.1 Lib Mapping Utility 2022.01 Jan 29 2022
 # vmap ip ip 
 # Modifying modelsim.ini
-# vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v}
+# vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v}
 # QuestaSim-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:27 on May 09,2025
-# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/CS701/ip/AudioClock_1/submodules" H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v 
+# Start time: 23:23:56 on May 25,2025
+# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules" H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v 
 # -- Compiling module AudioClock_audio_pll_0
 # 
 # Top level modules:
 # 	AudioClock_audio_pll_0
-# End time: 13:25:27 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:23:56 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v}
+# vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v}
 # QuestaSim-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:28 on May 09,2025
-# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/CS701/ip/AudioClock_1/submodules" H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v 
+# Start time: 23:23:56 on May 25,2025
+# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules" H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v 
 # -- Compiling module altera_up_avalon_reset_from_locked_signal
 # 
 # Top level modules:
 # 	altera_up_avalon_reset_from_locked_signal
-# End time: 13:25:28 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:23:57 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v}
+# vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v}
 # QuestaSim-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:28 on May 09,2025
-# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/CS701/ip/AudioClock_1/submodules" H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v 
+# Start time: 23:23:57 on May 25,2025
+# vlog -reportprogress 300 -vlog01compat -work ip "+incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules" H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v 
 # -- Compiling module AudioClock_audio_pll_0_audio_pll
 # 
 # Top level modules:
 # 	AudioClock_audio_pll_0_audio_pll
-# End time: 13:25:29 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:58 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work ip {H:/CS701/ip/AudioClock_1/AudioClock.vhd}
+# vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/AudioClock.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:29 on May 09,2025
-# vcom -reportprogress 300 -93 -work ip H:/CS701/ip/AudioClock_1/AudioClock.vhd 
+# Start time: 23:23:58 on May 25,2025
+# vcom -reportprogress 300 -93 -work ip H:/cs701-lab2/CS701-lab/ip/AudioClock_1/AudioClock.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package NUMERIC_STD
 # -- Compiling entity AudioClock
 # -- Compiling architecture rtl of AudioClock
-# End time: 13:25:30 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:23:59 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work ip {H:/CS701/ip/AudioFifo/AudioFifo.vhd}
+# vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioFifo/AudioFifo.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:30 on May 09,2025
-# vcom -reportprogress 300 -93 -work ip H:/CS701/ip/AudioFifo/AudioFifo.vhd 
+# Start time: 23:23:59 on May 25,2025
+# vcom -reportprogress 300 -93 -work ip H:/cs701-lab2/CS701-lab/ip/AudioFifo/AudioFifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity AudioFifo
 # -- Compiling architecture SYN of audiofifo
-# End time: 13:25:30 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:00 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work ip {H:/CS701/ip/AudioRom/AudioRom.vhd}
+# vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioRom/AudioRom.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:31 on May 09,2025
-# vcom -reportprogress 300 -93 -work ip H:/CS701/ip/AudioRom/AudioRom.vhd 
+# Start time: 23:24:00 on May 25,2025
+# vcom -reportprogress 300 -93 -work ip H:/cs701-lab2/CS701-lab/ip/AudioRom/AudioRom.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package altera_mf_components
 # -- Compiling entity AudioRom
 # -- Compiling architecture SYN of audiorom
-# End time: 13:25:31 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:01 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work ip {H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd}
+# vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/TdmaMinFifo/TdmaMinFifo.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:32 on May 09,2025
-# vcom -reportprogress 300 -93 -work ip H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd 
+# Start time: 23:24:01 on May 25,2025
+# vcom -reportprogress 300 -93 -work ip H:/cs701-lab2/CS701-lab/ip/TdmaMinFifo/TdmaMinFifo.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Compiling entity TdmaMinFifo
 # -- Compiling architecture SYN of tdmaminfifo
-# End time: 13:25:32 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:02 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Audio/AudioControl.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioControl.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:32 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Audio/AudioControl.vhd 
+# Start time: 23:24:02 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Audio/AudioControl.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package NUMERIC_STD
 # -- Compiling entity AudioControl
 # -- Compiling architecture rtl of AudioControl
-# End time: 13:25:33 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:03 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Misc/HexSeg.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Misc/HexSeg.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:33 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Misc/HexSeg.vhd 
+# Start time: 23:24:03 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Misc/HexSeg.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package NUMERIC_STD
 # -- Compiling entity HexSeg
 # -- Compiling architecture rtl of HexSeg
-# End time: 13:25:34 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:04 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinSlots.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSlots.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:34 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinSlots.vhd 
+# Start time: 23:24:04 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSlots.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
 # -- Loading package NUMERIC_STD
 # -- Compiling entity TdmaMinSlots
 # -- Compiling architecture rtl of TdmaMinSlots
-# End time: 13:25:35 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:04 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinTypes.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinTypes.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:35 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinTypes.vhd 
+# Start time: 23:24:05 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinTypes.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -970,12 +970,12 @@
 # -- Compiling package TdmaMinTypes
 # -- Compiling package body TdmaMinTypes
 # -- Loading package TdmaMinTypes
-# End time: 13:25:36 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:05 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Audio/AudioIn.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioIn.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:36 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Audio/AudioIn.vhd 
+# Start time: 23:24:05 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Audio/AudioIn.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -983,12 +983,12 @@
 # -- Compiling entity AudioIn
 # -- Compiling architecture rtl of AudioIn
 # -- Loading entity AudioFifo
-# End time: 13:25:37 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:06 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Audio/AudioOut.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioOut.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:37 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Audio/AudioOut.vhd 
+# Start time: 23:24:06 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Audio/AudioOut.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -996,12 +996,12 @@
 # -- Compiling entity AudioOut
 # -- Compiling architecture rtl of AudioOut
 # -- Loading entity AudioFifo
-# End time: 13:25:38 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:07 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Audio/AudioTones.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioTones.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:38 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Audio/AudioTones.vhd 
+# Start time: 23:24:07 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Audio/AudioTones.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1011,12 +1011,12 @@
 # -- Loading entity AudioFifo
 # -- Loading package altera_mf_components
 # -- Loading entity AudioRom
-# End time: 13:25:39 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:09 on May 25,2025, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Misc/HexSeg6.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Misc/HexSeg6.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:39 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Misc/HexSeg6.vhd 
+# Start time: 23:24:09 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Misc/HexSeg6.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1024,12 +1024,12 @@
 # -- Compiling entity HexSeg6
 # -- Compiling architecture rtl of HexSeg6
 # -- Loading entity HexSeg
-# End time: 13:25:39 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:10 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinInterface.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinInterface.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:40 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinInterface.vhd 
+# Start time: 23:24:10 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinInterface.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1038,12 +1038,12 @@
 # -- Compiling entity TdmaMinInterface
 # -- Compiling architecture rtl of TdmaMinInterface
 # -- Loading entity TdmaMinFifo
-# End time: 13:25:40 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:11 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinSwitch.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSwitch.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:40 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinSwitch.vhd 
+# Start time: 23:24:11 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSwitch.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1051,25 +1051,12 @@
 # -- Loading package TdmaMinTypes
 # -- Compiling entity TdmaMinSwitch
 # -- Compiling architecture rtl of TdmaMinSwitch
-# End time: 13:25:41 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:12 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/AspDp.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspAdc.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:41 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/AspDp.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Loading package TdmaMinTypes
-# -- Compiling entity AspDp
-# -- Compiling architecture rtl of AspDp
-# End time: 13:25:42 on May 09,2025, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/AspAdc.vhd}
-# QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:42 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/AspAdc.vhd 
+# Start time: 23:24:12 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/AspAdc.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1077,12 +1064,12 @@
 # -- Loading package TdmaMinTypes
 # -- Compiling entity AspAdc
 # -- Compiling architecture rtl of AspAdc
-# End time: 13:25:42 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:13 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/AspDac.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspDac.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:42 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/AspDac.vhd 
+# Start time: 23:24:13 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/AspDac.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1090,12 +1077,25 @@
 # -- Loading package TdmaMinTypes
 # -- Compiling entity AspDac
 # -- Compiling architecture rtl of AspDac
-# End time: 13:25:43 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:13 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/Audio/Audio.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspDp.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:43 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/Audio/Audio.vhd 
+# Start time: 23:24:13 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/AspDp.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package TdmaMinTypes
+# -- Compiling entity AspDp
+# -- Compiling architecture rtl of AspDp
+# End time: 23:24:14 on May 25,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/Audio.vhd}
+# QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
+# Start time: 23:24:14 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/Audio/Audio.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1108,12 +1108,12 @@
 # -- Loading entity AudioTones
 # -- Loading entity AudioIn
 # -- Loading entity AudioOut
-# End time: 13:25:44 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:15 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinStage.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinStage.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:44 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinStage.vhd 
+# Start time: 23:24:15 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinStage.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1122,12 +1122,12 @@
 # -- Compiling entity TdmaMinStage
 # -- Compiling architecture rtl of TdmaMinStage
 # -- Loading entity TdmaMinSwitch
-# End time: 13:25:45 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:16 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/AspExample.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspExample.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:45 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/AspExample.vhd 
+# Start time: 23:24:16 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/AspExample.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1136,12 +1136,12 @@
 # -- Compiling entity AspExample
 # -- Compiling architecture rtl of AspExample
 # -- Loading entity HexSeg6
-# End time: 13:25:45 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:17 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinFabric.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinFabric.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:45 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMinFabric.vhd 
+# Start time: 23:24:17 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinFabric.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1150,12 +1150,12 @@
 # -- Compiling entity TdmaMinFabric
 # -- Compiling architecture rtl of TdmaMinFabric
 # -- Loading entity TdmaMinStage
-# End time: 13:25:46 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:18 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMin.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMin.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:46 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TdmaMin/TdmaMin.vhd 
+# Start time: 23:24:18 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMin.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1166,12 +1166,12 @@
 # -- Loading entity TdmaMinSlots
 # -- Loading entity TdmaMinFabric
 # -- Loading entity TdmaMinInterface
-# End time: 13:25:47 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:19 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/src/TopLevel.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TopLevel.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:47 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/src/TopLevel.vhd 
+# Start time: 23:24:19 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/src/TopLevel.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1185,13 +1185,13 @@
 # -- Loading entity AspDac
 # -- Loading entity AspDp
 # -- Loading entity AspExample
-# End time: 13:25:47 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:20 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
-# vcom -93 -work work {H:/CS701/test/TestAdc.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestAdc.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:48 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/test/TestAdc.vhd 
+# Start time: 23:24:20 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/test/TestAdc.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1199,12 +1199,12 @@
 # -- Loading package TdmaMinTypes
 # -- Compiling entity TestAdc
 # -- Compiling architecture sim of TestAdc
-# End time: 13:25:48 on May 09,2025, Elapsed time: 0:00:00
+# End time: 23:24:21 on May 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/test/TestDac.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestDac.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:48 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/test/TestDac.vhd 
+# Start time: 23:24:21 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/test/TestDac.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1212,12 +1212,12 @@
 # -- Loading package TdmaMinTypes
 # -- Compiling entity TestDac
 # -- Compiling architecture sim of TestDac
-# End time: 13:25:49 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:21 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vcom -93 -work work {H:/CS701/test/TestTopLevel.vhd}
+# vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestTopLevel.vhd}
 # QuestaSim-64 vcom 2022.1 Compiler 2022.01 Jan 29 2022
-# Start time: 13:25:49 on May 09,2025
-# vcom -reportprogress 300 -93 -work work H:/CS701/test/TestTopLevel.vhd 
+# Start time: 23:24:22 on May 25,2025
+# vcom -reportprogress 300 -93 -work work H:/cs701-lab2/CS701-lab/test/TestTopLevel.vhd 
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
@@ -1229,12 +1229,12 @@
 # -- Loading entity TestAdc
 # -- Loading entity TestDac
 # -- Loading entity AspDp
-# End time: 13:25:50 on May 09,2025, Elapsed time: 0:00:01
+# End time: 23:24:22 on May 25,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -L ip -voptargs="+acc"  TEST1
 # vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -L ip -voptargs=""+acc"" TEST1 
-# Start time: 13:25:50 on May 09,2025
+# Start time: 23:24:23 on May 25,2025
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
 # ** Error: (vopt-13130) Failed to find design unit TEST1.
@@ -1255,9 +1255,9 @@
 # Error: Error loading design
 #        Pausing macro execution
 # MACRO ./DE1-SoC_run_msim_rtl_vhdl.do PAUSED at line 80
-vsim -voptargs=+acc work.testtoplevel(sim)
-# vsim -voptargs="+acc" work.testtoplevel(sim) 
-# Start time: 13:25:50 on May 09,2025
+vsim -voptargs=+acc work.testtoplevel
+# vsim -voptargs="+acc" work.testtoplevel 
+# Start time: 23:24:23 on May 25,2025
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
 # ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=2.
@@ -1295,19 +1295,11 @@ vsim -voptargs=+acc work.testtoplevel(sim)
 # ** Warning: (vsim-8683) Uninitialized out port /testtoplevel/asp_dac/send.data(30 downto 0) has no driver.
 # This port will contribute value (31'hXXXXXXXX) to the signal network.
 add wave -position insertpoint  \
-sim:/testtoplevel/asp_dp/test \
-sim:/testtoplevel/asp_dp/L_Reg_1 \
-sim:/testtoplevel/asp_dp/L_Reg_2 \
-sim:/testtoplevel/asp_dp/L_Reg_3 \
-sim:/testtoplevel/asp_dp/R_Reg_1 \
-sim:/testtoplevel/asp_dp/R_Reg_2 \
-sim:/testtoplevel/asp_dp/R_Reg_3
+sim:/testtoplevel/asp_dac/channel_0 \
+sim:/testtoplevel/asp_dac/channel_1
 add wave -position insertpoint  \
 sim:/testtoplevel/asp_adc/channel_0 \
 sim:/testtoplevel/asp_adc/channel_1
-add wave -position insertpoint  \
-sim:/testtoplevel/asp_dac/channel_0 \
-sim:/testtoplevel/asp_dac/channel_1
-run
-# End time: 13:55:51 on May 09,2025, Elapsed time: 0:30:01
+run 1 ms
+# End time: 23:44:26 on May 25,2025, Elapsed time: 0:20:03
 # Errors: 1, Warnings: 5

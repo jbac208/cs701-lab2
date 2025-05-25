@@ -8,13 +8,13 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dH:/CS701/simulation/modelsim
+dH:/CS701/simulation/modelsim
 Eio_buf_opdrn
-Z1 w1536815358
-Z2 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
-Z3 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
-!i122 21
-R0
+Z0 w1536815358
+Z1 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z2 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 27
+Z3 dH:/cs701-lab2/CS701-lab/simulation/modelsim
 Z4 8c:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd
 Z5 Fc:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd
 l0
@@ -23,19 +23,19 @@ VQ722I4CMC9?Zd?0kkzBVR3
 !s100 ;9?OKDhQ]KYdOE3LK;ASI0
 Z6 OL;C;2022.1;75
 31
-Z7 !s110 1746753911
+Z7 !s110 1748172218
 !i10b 1
-Z8 !s108 1746753911.000000
+Z8 !s108 1748172218.000000
 Z9 !s90 -reportprogress|300|-93|-work|sgate|c:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd|
 Z10 !s107 c:/intelfpga/18.1/quartus/eda/sim_lib/sgate.vhd|
 !i113 0
 Z11 o-93 -work sgate
 Z12 tExplicit 1 CvgOpt 0
 Asim_arch
+R1
 R2
-R3
 Z13 DEx4 work 12 io_buf_opdrn 0 22 Q722I4CMC9?Zd?0kkzBVR3
-!i122 21
+!i122 27
 l273
 Z14 L272 6
 Z15 VlidMNkjCVV7[S4@N`W2ff1
@@ -51,11 +51,11 @@ R10
 R11
 R12
 Eio_buf_tri
+R0
 R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -73,10 +73,10 @@ R10
 R11
 R12
 Asim_arch
+R1
 R2
-R3
 Z17 DEx4 work 10 io_buf_tri 0 22 cXXGFfFK0YjjlTL?QAKn<1
-!i122 21
+!i122 27
 l250
 Z18 L249 6
 Z19 VHj5<Oe3A1N=Dz`oj[hVNJ0
@@ -92,11 +92,11 @@ R10
 R11
 R12
 Emux21
+R0
 R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -114,10 +114,10 @@ R10
 R11
 R12
 Asim_arch
+R1
 R2
-R3
 Z21 DEx4 work 5 mux21 0 22 2HVUOBf;5;;oHG>?fKK^R0
-!i122 21
+!i122 27
 l226
 Z22 L224 7
 Z23 V1?ZJHeQ]B_>n1eWc1fb>E1
@@ -133,13 +133,13 @@ R10
 R11
 R12
 Eoper_add
-R1
+R0
 Z25 DPx4 ieee 16 std_logic_signed 0 22 33nZVN1bfI5lKJc7clY>c0
 Z26 DPx4 ieee 15 std_logic_arith 0 22 B[jVX6I8iRX2o6WYW0BB>3
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -159,10 +159,10 @@ R12
 Asim_arch
 R25
 R26
+R1
 R2
-R3
 Z27 DEx4 work 8 oper_add 0 22 M<n4U@daLmALbmE9?[nNU3
-!i122 21
+!i122 27
 l46
 Z28 L40 69
 Z29 V060Iade8iPQLHNl0MX9dK1
@@ -178,13 +178,13 @@ R10
 R11
 R12
 Eoper_addsub
-R1
+R0
 R25
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -204,10 +204,10 @@ R12
 Asim_arch
 R25
 R26
+R1
 R2
-R3
 Z31 DEx4 work 11 oper_addsub 0 22 Y6Eo9c0ogk5A0a^?lYma92
-!i122 21
+!i122 27
 l142
 Z32 L136 70
 Z33 VN_5SXkOdEfL[n`fV`GS_n2
@@ -223,11 +223,11 @@ R10
 R11
 R12
 Eoper_bus_mux
+R0
 R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -236,7 +236,7 @@ VjA0hT4@:M9HkdkXG>i=2N0
 !s100 H_hD6MnzV>AZFBMZa;S?z3
 R6
 31
-Z35 !s110 1746753912
+Z35 !s110 1748172219
 !i10b 1
 R8
 R9
@@ -245,10 +245,10 @@ R10
 R11
 R12
 Asim_arch
+R1
 R2
-R3
 Z36 DEx4 work 12 oper_bus_mux 0 22 jA0hT4@:M9HkdkXG>i=2N0
-!i122 21
+!i122 27
 Z37 l1205
 Z38 L1203 35
 Z39 VC6CG`K3eXKMf6:G24<]QU0
@@ -264,12 +264,12 @@ R10
 R11
 R12
 Eoper_decoder
-R1
-R26
-R2
-R3
-!i122 21
 R0
+R26
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -288,10 +288,10 @@ R11
 R12
 Asim_arch
 R26
+R1
 R2
-R3
 Z41 DEx4 work 12 oper_decoder 0 22 =zNGQ729Z:d@R>akfbkG:1
-!i122 21
+!i122 27
 Z42 l1156
 Z43 L1148 30
 Z44 VcHVJQVo<g4cBPTjPJo`l53
@@ -307,13 +307,13 @@ R10
 R11
 R12
 Eoper_div
-R1
+R0
 Z46 DPx3 lpm 14 lpm_components 0 22 fi?46S4a:4@i4W3hd046b3
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -333,10 +333,10 @@ R12
 Asim_arch
 R46
 R26
+R1
 R2
-R3
 Z47 DEx4 work 8 oper_div 0 22 m1z_A4nDRiRDm=z:<Na]I2
-!i122 21
+!i122 27
 l448
 Z48 L435 60
 Z49 V1QP:>L<2Sk2D:k4LhRA[52
@@ -352,12 +352,12 @@ R10
 R11
 R12
 Eoper_latch
-R1
-R26
-R2
-R3
-!i122 21
 R0
+R26
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -376,10 +376,10 @@ R11
 R12
 Asim_arch
 R26
+R1
 R2
-R3
 Z51 DEx4 work 10 oper_latch 0 22 :Ve8>clE]=QGBY7e8cDaX1
-!i122 21
+!i122 27
 Z52 l1258
 Z53 L1256 15
 Z54 VH_MKDz?9k4Z`=eP5hKEWl2
@@ -395,13 +395,13 @@ R10
 R11
 R12
 Eoper_left_shift
-R1
+R0
 Z56 DPx4 ieee 18 std_logic_unsigned 0 22 o4hn5gYc0WVo72BSL@Ta50
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -421,10 +421,10 @@ R12
 Asim_arch
 R56
 R26
+R1
 R2
-R3
 Z57 DEx4 work 15 oper_left_shift 0 22 H>c<cL@[]Wz`RUfJLHePU1
-!i122 21
+!i122 27
 l613
 Z58 L607 53
 Z59 V86SonZ1ZI5Z3mG]USEA0d2
@@ -440,12 +440,12 @@ R10
 R11
 R12
 Eoper_less_than
-R1
-R26
-R2
-R3
-!i122 21
 R0
+R26
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -464,10 +464,10 @@ R11
 R12
 Asim_arch
 R26
+R1
 R2
-R3
 Z61 DEx4 work 14 oper_less_than 0 22 nHbSeLJ>Q38aYW8_k;ZAb2
-!i122 21
+!i122 27
 l933
 Z62 L931 60
 Z63 VF[YJf70[hiSOP<a<;G<z90
@@ -483,12 +483,12 @@ R10
 R11
 R12
 Eoper_mod
-R1
-R46
-R2
-R3
-!i122 21
 R0
+R46
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -507,10 +507,10 @@ R11
 R12
 Asim_arch
 R46
+R1
 R2
-R3
 Z65 DEx4 work 8 oper_mod 0 22 >EV5=^7oXPZmmVTZTc=]n0
-!i122 21
+!i122 27
 l535
 Z66 L522 59
 Z67 V_DBaGSAlA0zc9o>gjdBS21
@@ -526,13 +526,13 @@ R10
 R11
 R12
 Eoper_mult
-R1
+R0
 R25
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -552,10 +552,10 @@ R12
 Asim_arch
 R25
 R26
+R1
 R2
-R3
 Z69 DEx4 work 9 oper_mult 0 22 9EB<N@970An5l84MIG<V32
-!i122 21
+!i122 27
 l360
 Z70 L354 53
 Z71 VKdT0N9?RT<i^La4a8=0zh3
@@ -571,12 +571,12 @@ R10
 R11
 R12
 Eoper_mux
-R1
-Z73 DPx5 sgate 10 sgate_pack 0 22 L_VYT@WDHbJ5>fY<ln:WY3
-R2
-R3
-!i122 21
 R0
+Z73 DPx5 sgate 10 sgate_pack 0 22 L_VYT@WDHbJ5>fY<ln:WY3
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -595,10 +595,10 @@ R11
 R12
 Asim_arch
 R73
+R1
 R2
-R3
 Z74 DEx4 work 8 oper_mux 0 22 =Q>c6QV`]Z8LTQ;8dU;I?3
-!i122 21
+!i122 27
 Z75 l1018
 Z76 L1015 24
 Z77 VX^3V]dWj74<[2XaOeH9o;0
@@ -614,13 +614,13 @@ R10
 R11
 R12
 Eoper_prio_selector
-R1
+R0
 R25
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -640,10 +640,10 @@ R12
 Asim_arch
 R25
 R26
+R1
 R2
-R3
 Z79 DEx4 work 18 oper_prio_selector 0 22 XILn8zFbOmR@RG:I^l6>`0
-!i122 21
+!i122 27
 Z80 l1119
 Z81 L1118 8
 Z82 V=`Ae3lc4lQ6IKODOdMSeU1
@@ -659,13 +659,13 @@ R10
 R11
 R12
 Eoper_right_shift
-R1
+R0
 R56
 R26
+R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -685,10 +685,10 @@ R12
 Asim_arch
 R56
 R26
+R1
 R2
-R3
 Z84 DEx4 work 16 oper_right_shift 0 22 1cZm>CU8a7We2X^Q>BljG2
-!i122 21
+!i122 27
 l701
 Z85 L687 61
 Z86 Vc8PbLb?3_CF[KgP]:DCi>0
@@ -704,12 +704,12 @@ R10
 R11
 R12
 Eoper_rotate_left
-R1
-R46
-R2
-R3
-!i122 21
 R0
+R46
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -728,10 +728,10 @@ R11
 R12
 Asim_arch
 R46
+R1
 R2
-R3
 Z88 DEx4 work 16 oper_rotate_left 0 22 M82QX0TRWeabReAk<JM4_0
-!i122 21
+!i122 27
 l780
 Z89 L775 52
 Z90 V`@mCMa48oTKHYZ9P?9=`l2
@@ -747,12 +747,12 @@ R10
 R11
 R12
 Eoper_rotate_right
-R1
-R46
-R2
-R3
-!i122 21
 R0
+R46
+R1
+R2
+!i122 27
+R3
 R4
 R5
 l0
@@ -771,10 +771,10 @@ R11
 R12
 Asim_arch
 R46
+R1
 R2
-R3
 Z92 DEx4 work 17 oper_rotate_right 0 22 <0KTIn`GWL5nodoE?j;Nf3
-!i122 21
+!i122 27
 l859
 Z93 L854 52
 Z94 V;iPzH0igHkWQIF<^J78Ch0
@@ -790,11 +790,11 @@ R10
 R11
 R12
 Eoper_selector
+R0
 R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -812,10 +812,10 @@ R10
 R11
 R12
 Asim_arch
+R1
 R2
-R3
 Z96 DEx4 work 13 oper_selector 0 22 fZX8VoXKEcANNUX=nn?Sm2
-!i122 21
+!i122 27
 Z97 l1062
 Z98 L1061 32
 Z99 V8KJG]T7=Mh?fTY9WWNgl[1
@@ -831,11 +831,11 @@ R10
 R11
 R12
 Psgate_pack
+R1
 R2
-R3
-!i122 20
+!i122 26
 Z101 w1536815359
-R0
+R3
 Z102 8c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd
 Z103 Fc:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd
 l0
@@ -845,39 +845,39 @@ VL_VYT@WDHbJ5>fY<ln:WY3
 R6
 31
 b1
-R7
+Z104 !s110 1748172217
 !i10b 1
-Z104 !s108 1746753910.000000
-Z105 !s90 -reportprogress|300|-93|-work|sgate|c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd|
-Z106 !s107 c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd|
+Z105 !s108 1748172216.000000
+Z106 !s90 -reportprogress|300|-93|-work|sgate|c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd|
+Z107 !s107 c:/intelfpga/18.1/quartus/eda/sim_lib/sgate_pack.vhd|
 !i113 0
 R11
 R12
 Bbody
 DPx4 work 10 sgate_pack 0 22 L_VYT@WDHbJ5>fY<ln:WY3
+R1
 R2
-R3
-!i122 20
+!i122 26
 l0
 L316 1
 VS>QB0=42DgUmQY8Haiaf;3
 !s100 WzjbMQ>Y65NUP9:mUCAj_0
 R6
 31
-R7
-!i10b 1
 R104
+!i10b 1
 R105
 R106
+R107
 !i113 0
 R11
 R12
 Etri_bus
+R0
 R1
 R2
+!i122 27
 R3
-!i122 21
-R0
 R4
 R5
 l0
@@ -895,14 +895,14 @@ R10
 R11
 R12
 Asim_arch
+R1
 R2
-R3
-Z107 DEx4 work 7 tri_bus 0 22 a?m3J`HTgdD[b1M48gBLT3
-!i122 21
+Z108 DEx4 work 7 tri_bus 0 22 a?m3J`HTgdD[b1M48gBLT3
+!i122 27
 l306
-Z108 L304 24
-Z109 VOXkH<adY8Y7@]mk?=Z<^62
-Z110 !s100 49AeEi5^=7nAKXJ1DQEUn3
+Z109 L304 24
+Z110 VOXkH<adY8Y7@]mk?=Z<^62
+Z111 !s100 49AeEi5^=7nAKXJ1DQEUn3
 R6
 31
 R7

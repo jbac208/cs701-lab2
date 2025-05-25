@@ -46,36 +46,36 @@ vmap work rtl_work
 
 vlib ip
 vmap ip ip
-vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v}
-vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v}
-vlog -vlog01compat -work ip +incdir+H:/CS701/ip/AudioClock_1/submodules {H:/CS701/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v}
-vcom -93 -work ip {H:/CS701/ip/AudioClock_1/AudioClock.vhd}
-vcom -93 -work ip {H:/CS701/ip/AudioFifo/AudioFifo.vhd}
-vcom -93 -work ip {H:/CS701/ip/AudioRom/AudioRom.vhd}
-vcom -93 -work ip {H:/CS701/ip/TdmaMinFifo/TdmaMinFifo.vhd}
-vcom -93 -work work {H:/CS701/src/Audio/AudioControl.vhd}
-vcom -93 -work work {H:/CS701/src/Misc/HexSeg.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinSlots.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinTypes.vhd}
-vcom -93 -work work {H:/CS701/src/Audio/AudioIn.vhd}
-vcom -93 -work work {H:/CS701/src/Audio/AudioOut.vhd}
-vcom -93 -work work {H:/CS701/src/Audio/AudioTones.vhd}
-vcom -93 -work work {H:/CS701/src/Misc/HexSeg6.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinInterface.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinSwitch.vhd}
-vcom -93 -work work {H:/CS701/src/AspDp.vhd}
-vcom -93 -work work {H:/CS701/src/AspAdc.vhd}
-vcom -93 -work work {H:/CS701/src/AspDac.vhd}
-vcom -93 -work work {H:/CS701/src/Audio/Audio.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinStage.vhd}
-vcom -93 -work work {H:/CS701/src/AspExample.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMinFabric.vhd}
-vcom -93 -work work {H:/CS701/src/TdmaMin/TdmaMin.vhd}
-vcom -93 -work work {H:/CS701/src/TopLevel.vhd}
+vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0.v}
+vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/altera_up_avalon_reset_from_locked_signal.v}
+vlog -vlog01compat -work ip +incdir+H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/submodules/AudioClock_audio_pll_0_audio_pll.v}
+vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioClock_1/AudioClock.vhd}
+vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioFifo/AudioFifo.vhd}
+vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/AudioRom/AudioRom.vhd}
+vcom -93 -work ip {H:/cs701-lab2/CS701-lab/ip/TdmaMinFifo/TdmaMinFifo.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioControl.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Misc/HexSeg.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSlots.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinTypes.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioIn.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioOut.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/AudioTones.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Misc/HexSeg6.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinInterface.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinSwitch.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspAdc.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspDac.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspDp.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/Audio/Audio.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinStage.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/AspExample.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMinFabric.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TdmaMin/TdmaMin.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/src/TopLevel.vhd}
 
-vcom -93 -work work {H:/CS701/test/TestAdc.vhd}
-vcom -93 -work work {H:/CS701/test/TestDac.vhd}
-vcom -93 -work work {H:/CS701/test/TestTopLevel.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestAdc.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestDac.vhd}
+vcom -93 -work work {H:/cs701-lab2/CS701-lab/test/TestTopLevel.vhd}
 
 vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -L ip -voptargs="+acc"  TEST1
 
